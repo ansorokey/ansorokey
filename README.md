@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 
 I'm Anton! A fullstack web developer looking to shift towards backend development. Passionate about learning and seeing what I can create and do with that knowledge 🧠
 
-👨🏽‍💻 My languages and frameworks include: JavaScript, Python, SQL, Sequelize, Express, Flask, SQLAlchemy, HTML, CSS, Docker
-🛠 I've always got some project in the works, I just need to work on making it work 
-💻 Currently focusing on improving:
+- 👨🏽‍💻 My languages and frameworks include: JavaScript, Python, SQL, Sequelize, Express, Flask, SQLAlchemy, HTML, CSS, Docker
+- 🛠 I've always got some project in the works, I just need to work on making it work 
+- 💻 Currently focusing on improving:
   - Data Structures and Algorithms
   - Python
   - SQL and database architecture
-🐈 Lover of cats🐈‍⬛
-🐕 And dogs 🐶
-🐉 And reptiles 🦎
-🏠 Located in Akron, OH
-🌸 Studying to pass the JLPT N5
+- 🐈 Lover of cats🐈‍⬛
+- 🐕 And dogs 🐶
+- 🐉 And reptiles 🦎
+- 🏠 Located in Akron, OH
+- 🌸 Studying to pass the JLPT N5
+
+Feel free to reach out to me for questions and inquries!📨 ansorokey@gmail.com
 
 Heh heh hah hah, thank you!
